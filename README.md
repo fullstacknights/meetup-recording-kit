@@ -28,11 +28,15 @@ Current suggestions are listed [here](https://github.com/fullstacknights/meetup-
 
 ## Video editing
 
-TODO: Document required software.
+[Final Cut Pro X](https://www.apple.com/final-cut-pro/)
 
 ## Funding
 
 Communities could start a crowdsourcing campaign to raise the necessary funds. First community to do this, should contribute back to this project with what worked and what didn’t.
+
+## Training
+
+After acquiring equipment, a training day should be organized within the community consisting of practice recordings and editing. Contributors to the funding campaign are welcome and encouraged to participate. Participants will be added to a list of people that are "certified" to use the equipment.
 
 ## Sharing
 
